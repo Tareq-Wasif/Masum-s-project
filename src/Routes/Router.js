@@ -11,7 +11,7 @@ const Router=createBrowserRouter([
 		children:[
 			{
 				path:'/register',
-				element:Register
+				element:<Register/>
 			}
 		]
 

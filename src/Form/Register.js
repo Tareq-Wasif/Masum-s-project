@@ -2,7 +2,7 @@ import React from "react";
 
 const Register = () => {
   return (
-    <form>
+    <form className="w- 1/2">
       <div className="relative z-0 w-full mb-6 group">
         <input
           type="email"
